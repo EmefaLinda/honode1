@@ -1,0 +1,11 @@
+body{
+
+    /*this is how to set the background color*/
+    /* background-color: #ffff00; */
+    background-image: url(./images/Amos\ 20181002_201125.jpg );
+    
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color:red;
+}
